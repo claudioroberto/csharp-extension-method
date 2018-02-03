@@ -1,0 +1,7 @@
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\bin\Debug\csharp-extension-method.exe.config
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\bin\Debug\csharp-extension-method.exe
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\bin\Debug\csharp-extension-method.pdb
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\obj\Debug\csharp-extension-method.csprojResolveAssemblyReference.cache
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\obj\Debug\csharp-extension-method.csproj.CoreCompileInputs.cache
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\obj\Debug\csharp-extension-method.exe
+D:\JDyC\GitHub\csharp-extension-method\csharp-extension-method\obj\Debug\csharp-extension-method.pdb
